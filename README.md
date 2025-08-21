@@ -1,4 +1,4 @@
-# Astronomical & Astrophysical Simulations 
+# Astronomical & Astrophysical Simulations :full_moon:⭐
 
 ## Goals
 * Simulate movement of celestial objects moving along elliptical orbits
